@@ -1,0 +1,4 @@
+.vscode/
+
+# Ignoring Virtual Environment Folders and Files.
+project01-env/
