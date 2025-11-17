@@ -1,6 +1,3 @@
-<<<<<<< HEAD
-demo
-=======
 # Get Book Info Through CLI
 
 A simple Python command-line tool that fetches book information from the [Open Library API](https://openlibrary.org/dev/docs/api/books).
@@ -58,4 +55,3 @@ venv\Scripts\activate         # Windows
 # Install dependencies
 pip install -r requirements.txt
 ```
->>>>>>> 187be3a (Added README.)
